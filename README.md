@@ -1,6 +1,4 @@
-<center>
-<h1>Helo there, i'm yosyo ! <img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"></h1>
-</center>
+<h1 align="center">Helo there, i'm yosyo ! <img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"></h1>
 
 <h4 align='center'>
   Music Composer | Kernel Programming Enjoyer
