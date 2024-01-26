@@ -16,7 +16,7 @@
 
 ### About Me:
 
-`💻` I'm a student at `42Angouleme`. I love <b>computer</b>, and learning how these things works, so is why i'm so interessed into <b>Kernel</b> and <b>Low Level Programming</b>.
+`💻` I'm a student at `42Angouleme`. I love <b>computers</b>, and learning how these things works, so is why i'm so interessed into <b>Kernel</b> and <b>Low Level Programming</b>.
 
 `🎧` I also compose <b>Music</b> since probably `2016` or around this. I don't do any specific genre I just make things i like, you can listen to it on my [Youtube](https://www.youtube.com/channel/UCAiYUxrqETUJCd3le3n6WCA) and on my [Soundcloud](https://soundcloud.com/yosyo). I'm the main composer of [Blood Rush](https://store.steampowered.com/app/2435870/Blood_Rush/) btw.
 
