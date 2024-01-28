@@ -1,7 +1,7 @@
 <h1 align="center">Helo there, i'm yosyo ! <img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"></h1>
 
 <h4 align='center'>
-  Music Composer | Kernel Programming Enjoyer
+  Computers Enthusiast | Music Composer
 </h4>
 
 ---------------------------------------
@@ -20,7 +20,11 @@
 
 `🎧` I also compose <b>Music</b> since probably `2016` or around this. I don't do any specific genre I just make things i like, you can listen to it on my [Youtube](https://www.youtube.com/channel/UCAiYUxrqETUJCd3le3n6WCA) and on my [Soundcloud](https://soundcloud.com/yosyo). I'm the main composer of [Blood Rush](https://store.steampowered.com/app/2435870/Blood_Rush/) btw.
 
-`🪐` I use <b>NixOS</b> btw.
+`🪐` You should use `NixOS`.
+
+### Things I used:
+
+[![](https://skillicons.dev/icons?i=c,py,rust,linux,nix,git,godot,html,css,sass)](https://skillicons.dev)
 
 ### My Exact Location:
 
